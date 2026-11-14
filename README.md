@@ -1,4 +1,4 @@
-# Assignment B: Reproducible Semantic Segmentation Experiment (`CS107203CS`)
+# Assignment B: Reproducible Semantic Segmentation Experiment 
 
 Controlled architectural ablation comparing a 4-level same-padding **U-Net** baseline against a **Boundary-Gated U-Net** (adding a single Sobel-guided Gated Shape-Stream Boundary Branch) on **PASCAL VOC 2012** under a strictly locked training and evaluation budget.
 
